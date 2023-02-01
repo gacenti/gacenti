@@ -8,6 +8,15 @@ So, I am pythonista, already.
 
 Because the fact that I'm from Korea, I really enjoy chicken.
 
+### I can speak..
+
+- Korean
+- English
+- Shona(African)
+- Python
+- SQL
+- Words of LOVE
+
 <!--
 **gacenti/gacenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
