@@ -1,11 +1,13 @@
-### Hi there 👋
-
 ### Let me introduce myself
 
 Hi, I am gacenti.
+
 I am a person who is planning to become an AI data scientist, using python.
+
 So, I am pythonista, already.
+
 Because the fact that I'm from Korea, I really enjoy chicken.
+
 <!--
 **gacenti/gacenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
