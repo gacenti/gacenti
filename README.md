@@ -1,6 +1,6 @@
 ### Let me introduce myself
 
-Hi, I am gacenti.
+Hi, I am gasan.
 
 I am a person who is planning to become an AI data scientist, using python.
 
